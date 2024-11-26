@@ -16,9 +16,13 @@ I'm a final-year student in the M.Sc. program in Media Technology and Engineerin
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" **alt="C" width="40" height="40"/>
 </div>
 
+---
+
 ### 🖥️ My work in git 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Grantallkotten&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
 
 ### 🔥 My stats
 
