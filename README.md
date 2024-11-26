@@ -2,6 +2,8 @@
 
 I'm a final-year student in the M.Sc. program in Media Technology and Engineering, located in Norrköping, Sweden.
 
+---
+
 ### 🛠️ What languages and tools are my speciality?
 
 <div>
@@ -27,3 +29,5 @@ I'm a final-year student in the M.Sc. program in Media Technology and Engineerin
 ### 🔥 My stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grantallkotten&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
