@@ -28,7 +28,8 @@ I am a final-year student in the M.Sc. program in Media Technology and Engineeri
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flask.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
       </div>
     </td>
   </tr>
@@ -48,4 +49,25 @@ I am a final-year student in the M.Sc. program in Media Technology and Engineeri
       </picture>
     </td>
   </tr>
+</table>
+
+---
+
+### ❤️My favorite working areas
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    </td>
+  </tr>  
 </table>
